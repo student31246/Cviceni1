@@ -1,0 +1,9 @@
+﻿  CviceniOne.cpp
+C:\Users\akharitonov\source\repos\CviceniOne\CviceniOne\SubjectExtensions.h(11,2): warning C4091: 'static ': ignored on left of 'SubjectExtensions' when no variable is declared
+  Student.cpp
+C:\Users\akharitonov\source\repos\CviceniOne\CviceniOne\SubjectExtensions.h(11,2): warning C4091: 'static ': ignored on left of 'SubjectExtensions' when no variable is declared
+  Subject.cpp
+  SubjectExtensions.cpp
+C:\Users\akharitonov\source\repos\CviceniOne\CviceniOne\SubjectExtensions.h(11,2): warning C4091: 'static ': ignored on left of 'SubjectExtensions' when no variable is declared
+  Generating Code...
+  CviceniOne.vcxproj -> C:\Users\akharitonov\source\repos\CviceniOne\Debug\CviceniOne.exe
